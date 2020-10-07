@@ -11,7 +11,7 @@ import guru.springpractise.msscbeerservice.repositories.BeerRepository;
 /** 
  * Created by Pratap on Sep 13, 2020
  */
-@Component
+//@Component
 public class BeerLoader implements CommandLineRunner {
 	
 	public static final String BEER_1_UPC = "0631234200036";
